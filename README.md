@@ -2,8 +2,8 @@
 The classic Alien Invasions video game written in python using the pygame library
 
 # Requirements
-1.The latest vision of python 3
-2.The pygame libray
+1.The latest vision of python 3.
+2.The pygame libray.
 
 # Game description
 ....In Alien Invasion, the player controls a rocket ship that appears
