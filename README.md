@@ -2,11 +2,11 @@
 The classic Alien Invasions video game written in python using the pygame library
 
 #Requirements
--the latest vision of python 3
--the pygame libray
+1.The latest vision of python 3
+2.The pygame libray
 
 #Game description
--In Alien Invasion, the player controls a rocket ship that appears
+....In Alien Invasion, the player controls a rocket ship that appears
 at the bottom center of the screen. The player can move the ship
 right and left using the arrow keys and shoot bullets using the
 spacebar. When the game begins, a fleet of aliens fills the sky
